@@ -10,4 +10,5 @@ public class DependenciesInjectionApplication {
 		SpringApplication.run(DependenciesInjectionApplication.class, args);
 	}
 
+
 }
